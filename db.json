@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "title": "Bang & Olufsen BeoPlay",
+      "description": "Беспроводные наушники, достойные внимания: стоит купить BeoPlay E8 2.0, и желание возвращаться к бесконечным проводам отпадёт навеки",
+      "type": "iphone",
+      "image": "https://apple-mania.com.ua/media/catalog/product/cache/e026f651b05122a6916299262b60c47d/1/b/1bang_olufsen_beoplay_e8_2.0_black_01___desktop_580_580-600x600_1.webp",
+      "price": "350",
+      "id": 1
+    },
+    {
+      "title": "Bang & Olufsen BeoPlay H5 ",
+      "description": "У них невероятный дизайн, как и у всех акустических аксессуаров производителя, качественное звучание, поддержка aptX, а также удобное управление с мобильного приложения. Они идеально сочетаются с устройствами Applе.",
+      "type": "iphone",
+      "image": "https://apple-mania.com.ua/media/catalog/product/cache/e026f651b05122a6916299262b60c47d/1/h/1h5_moss_1-600x600.webp",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "title": "Apple AirPods Max Silver ",
+      "description": "Встречайте: AirPods Max – беспроводные полноразмерные наушники Apple. Мировое сообщество ожидало, что они будут технологичными, но никто и не подозревал, насколько.",
+      "type": "samsung",
+      "image": "https://apple-mania.com.ua/media/catalog/product/cache/e026f651b05122a6916299262b60c47d/a/i/airpods-max-select-silver-202011.png",
+      "price": "550",
+      "id": 5
+    },
+    {
+      "title": "Bang & Olufsen BeoPlay E6",
+      "image": "https://apple-mania.com.ua/media/catalog/product/cache/e026f651b05122a6916299262b60c47d/2/c/2caf13e9d_k-600x600.webp",
+      "price": "200",
+      "type": "",
+      "description": "BeoPlay E6 - обладают характерным звучанием и самым продуманным внешним видом  Это настоящий аксессуар, доступный в пяти цветах, разработанный и украшенный лучшими мастерами.",
+      "id": 6
+    },
+    {
+      "title": "AirPods Pro",
+      "image": "https://onlyphones.ru/wp-content/uploads/2016/09/airpods_pro.png",
+      "price": "200",
+      "type": "",
+      "description": "Apple декларирует до 5 часов прослушивания музыки, а при активации системы шумоподавления автономность сокращается до 4,5 часа. Кейс позволяет увеличить продолжительность работы до 24 часов. Сам кейс поддерживает беспроводную зарядку или его можно зарядить по проводу через разъем Lightning.",
+      "id": 7
+    },
+    {
+      "title": " Apple AirPods",
+      "image": "https://www.freepnglogos.com/uploads/airpods-png/airpods-apply-airpod-skins-mightyskins-3.png",
+      "price": "200",
+      "type": "",
+      "description": "Внешне AirPods выглядят очень похоже на традиционные EarPods, за исключением, разумеется, отсутствия проводов. Форма самих «капелек» практически идентична. И, надо заметить, это удачное решение, поскольку форма наушников Apple действительно оптимальна.",
+      "id": 8
+    },
+    {
+      "title": "Dr. Dre Beats Studio",
+      "image": "https://digitalvideo.com.ua/products_pictures/Beats-New-Studio-Blue-L.jpg",
+      "price": "250",
+      "type": "",
+      "description": "Beats Acoustic Engine™ сделает процесс прослушивания треков персональным и реалистичным. Фирменное программное обеспечение DSP специально создано для передачи эмоций, которые Dr. Dre, Jimmy lovine.",
+      "id": 9
+    },
+    {
+      "title": "Beats Studio 3",
+      "image": "https://cdn1.it4profit.com/AfrOrF3gWeDA6VOlDG4TzxMv39O7MXnF4CXpKUwGqRM/resize:fill:540/bg:f6f6f6/q:100/plain/s3://catalog-products/170913085939122050/170914160014293959.jpg@webp",
+      "price": "100",
+      "type": "",
+      "description": "Встречайте беспроводные наушники Beats Studio3 Wireless с системой реального адаптивного подавления шумов (Pure ANC) и чипом Apple W1. Система реального адаптивного подавления шумов (Pure ANC) эффективно блокирует внешние шумы и гарантирует непревзойденное качество звука, чтобы вы могли полностью раствориться в музыке.",
+      "id": 10
+    }
+  ]
+}
